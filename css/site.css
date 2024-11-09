@@ -6,7 +6,7 @@
             margin: 0;
         }
         @font-face{
-            font-family: "Segoe UI";
+            font-family: "Times New Roman"; // from kane branch2
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
