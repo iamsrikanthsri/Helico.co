@@ -6,7 +6,8 @@
             margin: 0;
         }
         @font-face{
-            font-family: "Times New Roman"; // from kane branch2
+
+            font-family: "Times New Roman"; // from harry branch1 + from kane branch2
             src: url('../fonts/segoeuil.ttf');
         }
         .main-container {
